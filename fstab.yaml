@@ -1,7 +1,10 @@
-mountpoints:
-  /:
-    url: https://content.da.live/jigarkkarangiya/jkcommerce-storefront/
-    type: markup
+# mountpoints:
+#   /:
+#     url: https://content.da.live/jigarkkarangiya/jkcommerce-storefront/
+#     type: markup
 
-folders:
-  /products/: /products/default
+# folders:
+#   /products/: /products/default
+
+mountpoints:
+  /: https://drive.google.com/drive/folders/1II-Zrsn9ShNyATUN-V1-ZWxjwnBJx1FA
