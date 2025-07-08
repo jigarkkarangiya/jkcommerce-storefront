@@ -1,0 +1,5 @@
+{
+    "project": "JK Commerce",
+    "editUrlLabel": "Document Authoring",
+    "editUrlPattern": "https://da.live/edit#/jigarkkarangiya/jkcommerce-storefront{{pathname}}"
+  }
