@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
+      "commerce-core-endpoint": "https://appbuilder-learn.ddev.site/graphql",
+      "commerce-endpoint": "https://appbuilder-learn.ddev.site/graphql",
       "headers": {
         "all": {
           "Store": "default"
